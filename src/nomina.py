@@ -21,6 +21,9 @@ print("Las horas extras que trabajó ", nombre, "fueron: ", horasextras)
 print("Valor hora extra : $ ", valorhoraextra)
 print("Total horas extra: $ ", totalhorasextras)
 
+print("El total de horas que trabajó ", nombre, "fueron : ", horastrabajadas)
+print("El valor de la hora laboral ordinaria es : $ ", valorhora)
+print("El valor Neto a pagar es : $ ", salariototal)
 
 
 
